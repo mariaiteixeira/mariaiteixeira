@@ -4,9 +4,9 @@ Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da 
 
 ##
 <div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/m-ipt">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-ipt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ipt&layout=compact&langs_count=7&theme=midnight-purple"/>
+<a href="https://github.com/m-ipt">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-ipt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ipt&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 ##
