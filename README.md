@@ -1,9 +1,9 @@
 ## Olá! :)
 
 Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da Alura. Moro em Minas Gerais.
-- 🔭 Estou trabalhando no término do projeto "Barbearia Alura". Estou na parte 4.
+- 🔭 Estou trabalhando no portfólio do curso **"[HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox)".**
 - 🌱 Estou aprendendo sobre HTML, CSS e Git.
-- ⚡ Fun fact: não tenho jogado muito ultimamente mas tenho uma conta na **[Steam](https://steamcommunity.com/id/bvdk)**.
+- ⚡ Fun fact: não tenho jogado muito ultimamente, mas tenho uma conta na **[Steam](https://steamcommunity.com/id/bvdk)**.
 
 
 ## Estatísticas
