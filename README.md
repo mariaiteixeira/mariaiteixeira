@@ -1,8 +1,8 @@
 ## Olá! :)
 
 Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da Alura. Moro em Minas Gerais.
-- 🔭 Meu último projeto foi a [Imersão Dev #6](https://github.com/m-ipt/imersao_dev_6), da **[Alura](https://imersao.dev/)**.
-- 🌱 Estou aprendendo sobre banco de dados, HTML, CSS e Git.
+- 🔭 Estou trabalhando em alguns modelos de banco de dados.
+- 🌱 Estou aprendendo sobre banco de dados (**SGBD**) no momento.
 - ⚡ Fun fact: não tenho jogado muito ultimamente, mas tenho uma conta na **[Steam](https://steamcommunity.com/id/bvdk)**.
 
 
