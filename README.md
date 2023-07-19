@@ -2,7 +2,7 @@
 
 Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da Alura. Moro em Minas Gerais. 
 
-Gosto também da área DevOps. Principalmente de cloud e cibersegurança.
+Meu foco é atuar na área de dados, mas também gosto bastante de cloud e cibersegurança.
 
 ## Estatísticas 📈
 <div align="center" style="display: inline_block"><br>
