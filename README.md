@@ -3,7 +3,7 @@
 Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da Alura. Moro em Minas Gerais.
 
 <div>
-  <img align="right" width="200px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif"/>
+  <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif"/>
 </div>
 
 Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
