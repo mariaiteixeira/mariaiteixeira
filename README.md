@@ -16,10 +16,10 @@ Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 
 ## Stats 📈
 <div align="center" style="display: inline_block"><br>
-<a href="https://github.com/m-ipt">
+<a href="https://github.com/mariaiteixeira">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-ipt&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   
-<a href="https://github.com/m-ipt">
+<a href="https://github.com/mariaiteixeira">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ipt&hide=html&layout=compact&theme=neon">
 </div>
 
