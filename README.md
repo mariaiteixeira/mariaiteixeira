@@ -1,16 +1,27 @@
 ## Olá! :)
 
-Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da Alura. Moro em Minas Gerais. 
+Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da Alura. Moro em Minas Gerais.
 
-## Estatísticas 📈
-<div align="center" style="display: inline_block"><br>
+Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
+Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
+
+<div>
+  <img align="right" width="200px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif"/>
+</div>
+
+- 🔭 Estou terminando o repositório utilizando o [Matplotlib](https://github.com/m-ipt/matplotlib). 
+- 🌱 Estou atualmente aprendendo sobre a *AWS* e *Cloud Computing*!
+- ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
+
+## Stats 📈
+  <div align="center" style="display: inline_block"><br>
 <a href="https://github.com/m-ipt">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-ipt&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   
 <a href="https://github.com/m-ipt">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ipt&hide=html&layout=compact&theme=neon">
 </div>
-  
+
 ## Tecnologias 👩🏻‍💻
 <div align="center">
   
@@ -33,4 +44,11 @@ src="https://camo.githubusercontent.com/00c24d03159a604567a77fd6cf85557ff493b65a
 <div align="center">
 <p>Escreva algo no meu livro de visitas! 😊 </p>
 <a href="https://github.com/m-ipt/m-ipt/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+##
+<div align="center">
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30"/>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" height="30"/>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Campaign against FRAMES" height="30"/>
 </div>
