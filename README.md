@@ -12,6 +12,7 @@ Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 - 🔭 Estou terminando o repositório utilizando o [Matplotlib](https://github.com/m-ipt/matplotlib). 
 - 🌱 Estou atualmente aprendendo sobre a *AWS* e *Cloud Computing*!
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
+- 😍 Meu repositório favorito é [este](https://github.com/m-ipt/dw_sucos), em que criei um Data Warehouse.
 
 ## Stats 📈
 <div align="center" style="display: inline_block"><br>
