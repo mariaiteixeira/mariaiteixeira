@@ -17,10 +17,10 @@ Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 ## Stats 📈
 <div align="center" style="display: inline_block"><br>
 <a href="https://github.com/mariaiteixeira">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-ipt&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariaiteixeira&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   
 <a href="https://github.com/mariaiteixeira">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ipt&hide=html&layout=compact&theme=neon">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaiteixeira&hide=html&layout=compact&theme=neon">
 </div>
 
 ## Tecnologias 👩🏻‍💻
