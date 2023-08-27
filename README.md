@@ -2,12 +2,12 @@
 
 Meu nome é Maria Isabel. Sou estudante de estatística e monitora no fórum da Alura. Moro em Minas Gerais.
 
-Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
-Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
-
 <div>
   <img align="right" width="200px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif"/>
 </div>
+
+Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
+Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 
 - 🔭 Estou terminando o repositório utilizando o [Matplotlib](https://github.com/m-ipt/matplotlib). 
 - 🌱 Estou atualmente aprendendo sobre a *AWS* e *Cloud Computing*!
@@ -16,10 +16,10 @@ Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 ## Stats 📈
 <div align="center" style="display: inline_block"><br>
 <a href="https://github.com/m-ipt">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=m-ipt&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-ipt&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   
 <a href="https://github.com/m-ipt">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ipt&hide=html&layout=compact&theme=neon">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ipt&hide=html&layout=compact&theme=neon">
 </div>
 
 ## Tecnologias 👩🏻‍💻
