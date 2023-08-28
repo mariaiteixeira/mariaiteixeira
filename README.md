@@ -9,10 +9,10 @@ Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
 Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
 Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 
-- 🔭 Estou terminando o repositório utilizando o [Matplotlib](https://github.com/m-ipt/matplotlib). 
+- 🔭 Estou terminando o repositório utilizando o [Matplotlib](https://github.com/mariaiteixeira/matplotlib). 
 - 🌱 Estou atualmente aprendendo sobre a *AWS* e *Cloud Computing*!
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
-- 😍 Meu repositório favorito é [este](https://github.com/m-ipt/dw_sucos), em que criei um Data Warehouse.
+- 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
 
 ## Stats 📈
 <div align="center" style="display: inline_block"><br>
@@ -45,7 +45,7 @@ Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 ## Livro de visitas 💌
 <div align="center">
 <p>Escreva algo no meu livro de visitas! 😊 </p>
-<a href="https://github.com/m-ipt/m-ipt/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/mariaiteixeira/m-ipt/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 ##
