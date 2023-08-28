@@ -36,9 +36,9 @@ Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
   
 ## Como me contatar 🤔
  <div align="center">
-    <a href="https://cursos.alura.com.br/user/m--ipt" target"=_blank"><img src="https://img.shields.io/badge/-Alura-darkblue?style=for-the-badge&logo=Alura&logoColor=white" target="_blank"></a>
+    <a href="https://cursos.alura.com.br/user/mariaiteixeira" target"=_blank"><img src="https://img.shields.io/badge/-Alura-darkblue?style=for-the-badge&logo=Alura&logoColor=white" target="_blank"></a>
     <a href="mailto:mipt1612@gmail.com" target"=_blank"><img src="https://camo.githubusercontent.com/b070a7f6855dbf52729ec83a928c93e728f5245e24123a6547912acea3753899/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476d61696c26636f6c6f723d454134333335266c6f676f3d476d61696c266c6f676f436f6c6f723d464646464646266c6162656c3d"/></a>
-    <a href="https://www.linkedin.com/in/mipt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/mariaiteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <p><p>
 </div>
 
