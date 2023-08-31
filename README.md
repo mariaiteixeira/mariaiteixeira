@@ -45,7 +45,7 @@ Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 ## Livro de visitas 💌
 <div align="center">
 <p>Escreva algo no meu livro de visitas! 😊 </p>
-<a href="https://github.com/mariaiteixeira/m-ipt/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/mariaiteixeira/mariaiteixeira/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 ##
