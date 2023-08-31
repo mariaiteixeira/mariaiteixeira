@@ -9,7 +9,7 @@ Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
 Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
 Também adoro aprender coisas sobre *Cloud Computing* e *Cybersecurity*.
 
-- 🔭 Estou terminando o repositório utilizando o [Matplotlib](https://github.com/mariaiteixeira/matplotlib). 
+- 🔭 Estou começando um [repositório](https://github.com/mariaiteixeira/numpy) para o [curso de NumPy](https://cursos.alura.com.br/course/numpy-analise-numerica-eficiente-pythons). 
 - 🌱 Estou atualmente aprendendo sobre a *AWS* e *Cloud Computing*!
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
 - 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
