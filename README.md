@@ -4,13 +4,15 @@ Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
 
 <div>
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif"/>
+</div>
 
 Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
 
 - 🌱 Estou aprendendo sobre AWS!
+- 🥲 No momento não estou trabalhando em nenhum repositório.
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
 - 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
-</div>
+
 
 ## Stats 📈
 <div align="center" style="display: inline_block"><br>
