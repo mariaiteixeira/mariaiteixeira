@@ -9,7 +9,7 @@ Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
 Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
 
 - 🌱 Estou aprendendo sobre AWS e Java!
-- ☕ No momento estou trabalhando [neste repositório](https://github.com/mariaiteixeira/java-oop-1) de Java
+- ☕ No momento estou trabalhando [neste repositório](https://github.com/mariaiteixeira/java-1) de Java
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
 - 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
 
