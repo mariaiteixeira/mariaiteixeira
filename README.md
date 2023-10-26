@@ -6,7 +6,7 @@ Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif"/>
 </div>
 
-Minhas áreas favoritas para atuar são **Data Science** e **Data Engineering**. 
+Minhas áreas favoritas são **Data Science** e **Data Engineering**. 
 
 - 🌱 Estou aprendendo sobre AWS e Java!
 - ☕ No momento estou trabalhando [neste repositório](https://github.com/mariaiteixeira/java-1) de Java
