@@ -2,9 +2,9 @@
 
 Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
 
-<p align="center">
+<div>
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif" alt="gif de gatinho branco do jogo Neko Atsume"/>
-</p>
+</div>
 
 Minha área favorita é a **Data Engineering**! Contudo, adoro aprender em geral.
 
