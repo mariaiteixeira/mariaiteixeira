@@ -2,7 +2,7 @@
 
 Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
 
-<div style="text-align: center;">
+<div>
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif"/>
 </div>
 
