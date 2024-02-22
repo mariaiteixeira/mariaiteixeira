@@ -8,7 +8,7 @@ Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
 
 Minha área favorita é a **Data Engineering**! Contudo, adoro aprender em geral.
 
-- 🌱 Estou estudando Linux 🐧
+- 🌱 Estou estudando sobre Cloud Computing
 - ☁️ Sou certificada como Cloud Practitioner, pela AWS.
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
 - 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
