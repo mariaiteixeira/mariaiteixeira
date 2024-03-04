@@ -6,9 +6,9 @@ Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif" alt="gif de gatinho branco do jogo Neko Atsume"/>
 </div>
 
-Minha área favorita é a **Data Engineering**! Contudo, adoro aprender em geral.
+Minha área favorita é a de dados! Contudo, adoro aprender em geral.
 
-- 🌱 Estou estudando sobre Cloud Computing
+- 🌱 Estou estudando sobre Azure
 - ☁️ Sou certificada como Cloud Practitioner, pela AWS.
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
 - 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
