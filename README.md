@@ -1,6 +1,6 @@
 ## Olá! :)
 
-Meu nome é Maria Isabel. Sou monitora no fórum da Alura. Moro em Minas Gerais.
+Meu nome é Maria Isabel. Moro em Minas Gerais.
 
 <div>
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif" alt="gif de gatinho branco do jogo Neko Atsume"/>
@@ -36,7 +36,6 @@ Minha área favorita é a de dados! Contudo, adoro aprender em geral.
   
 ## Como me contatar 🤔
  <div align="center">
-    <a href="https://cursos.alura.com.br/user/mariaiteixeira" target"=_blank"><img src="https://img.shields.io/badge/-Alura-darkblue?style=for-the-badge&logo=Alura&logoColor=white" target="_blank"></a>
     <a href="mailto:mipt1612@gmail.com" target"=_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mariaiteixeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <p><p>
