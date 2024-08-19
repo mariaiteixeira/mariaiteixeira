@@ -1,6 +1,6 @@
 ## Olá! :)
 
-Meu nome é Maria Isabel. Moro em Minas Gerais.
+Meu nome é Maria Isabel. Moro em Minas Gerais. Trabalho na act digital como analista de dados.
 
 <div>
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif" alt="gif de gatinho branco do jogo Neko Atsume"/>
@@ -8,7 +8,7 @@ Meu nome é Maria Isabel. Moro em Minas Gerais.
 
 Minha área favorita é a de dados! Contudo, adoro aprender em geral.
 
-- 🌱 Estou estudando SQL!
+- 🌱 Estou estudando SQL e DAX!
 - ☁️ Sou certificada em AWS e Microsoft (Azure).
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
 - 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
