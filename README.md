@@ -8,7 +8,7 @@ Meu nome é Maria Isabel. Moro em Minas Gerais. Trabalho como analista de dados 
 
 Minha área favorita é a de dados! Contudo, adoro aprender em geral.
 
-- 🌱 Estou estudando a ferramenta QuickSight!
+- 🌱 Estou estudando a ferramenta QuickSight e a linguagem C#!
 - ☁️ Sou certificada em AWS e Microsoft (Azure).
 - ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
 - 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
