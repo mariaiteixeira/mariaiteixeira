@@ -1,17 +1,17 @@
-## Olá! :)
+## Hi there :)
 
-Meu nome é Maria Isabel. Trabalho como analista de dados na act digital para a BMW Group.
+My name is Maria Isabel. I work as a Business Intelligence Engineer / Data Analyst for BMW Group via act digital.
 
 <div>
   <img align="right" width="180px" src="https://media.tenor.com/5tbq0N93XmgAAAAC/neko-atsume.gif" alt="gif de gatinho branco do jogo Neko Atsume"/>
 </div>
 
-Minha área favorita é a de dados! Contudo, adoro aprender em geral.
+I love data! But honestly I do enjoy studying other stacks.
 
-- 🌱 Estou estudando SQL e QuickSight.
-- ☁️ Sou certificada em AWS, Microsoft (Azure), MySQL e Linux.
-- ⚡ Fun fact: mesmo sem jogar muito, possuo uma conta na [Steam](https://steamcommunity.com/id/bvdk/).
-- 😍 Meu repositório favorito é [este](https://github.com/mariaiteixeira/dw_sucos), em que criei um Data Warehouse.
+- 🌱 I'm studying (and working with) SQL and QuickSight.
+- ☁️ I am AWS, Microsoft (Azure), MySQL and Linux certified.
+- ⚡ Fun fact: although I do not play a lot, I have an account on [Steam](https://steamcommunity.com/id/bvdk/).
+- 😍 My favorite repository is [this one](https://github.com/mariaiteixeira/dw_sucos), in which I created a Data Warehouse.
 
 
 ## Stats 📈
@@ -23,7 +23,7 @@ Minha área favorita é a de dados! Contudo, adoro aprender em geral.
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaiteixeira&hide=html&layout=compact&theme=neon">
 </div>
 
-## Tecnologias 👩🏻‍💻
+## Tech Stack 👩🏻‍💻
 <div align="center">
   
 <img height="30em" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -34,16 +34,16 @@ Minha área favorita é a de dados! Contudo, adoro aprender em geral.
   
 </div>  
   
-## Como me contatar 🤔
+## How to contact me 🤔
  <div align="center">
     <a href="mailto:mipt1612@gmail.com" target"=_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mariaiteixeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <p><p>
 </div>
 
-## Livro de visitas 💌
+## Guestbook 💌
 <div align="center">
-<p>Escreva algo no meu livro de visitas! 😊 </p>
+<p>Leave a message in my guestbook!! 😊 </p>
 <a href="https://github.com/mariaiteixeira/mariaiteixeira/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
